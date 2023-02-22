@@ -1,56 +1,74 @@
 [
     {
         "id":1,
-        "title":" adasdas",
-        "description": "asdasdssdadasdada",
-        "price": 216565,
-        "thumbail": "kjjkjkjkj",
-        "code":"22323",
-        "stock": 1212
+        "title": "MERCURIO",
+        "description": "Es el planeta más pequeño del sistema solar y el más cercano al Sol.",
+        "price": 10000,
+        "thumbail": "img/Mercurio",
+        "code":"0101",
+        "stock": 1
     },
     {
         "id":2,
-        "title":" adasdssdas",
-        "description": "asdasdssdfdsfsdadasdada",
-        "price": 23216565,
-        "thumbail": "hjhkjjkjkjkj",
-        "code":"322323",
-        "stock": 12212
+        "title":"VENUS",
+        "description": "Solo tras el Sol y la Luna, Venus es el objeto más brillante que se puede ver en el firmamento desde la Tierra",
+        "price": 20000,
+        "thumbail": "img/Venus",
+        "code":"0202",
+        "stock": 1
     },
     {
         "id":3,
-        "title":" adas6767das",
-        "description": "asdasds67676sdadasdada",
-        "price": 21634565,
-        "thumbail": "kjjkjasdskjkj",
-        "code":"22332323",
-        "stock": 12112
+        "title": "TIERRA",
+        "description": "Es el quinto planeta más grande y el tercero en cercanía al Sol del sistema solar.",
+        "price": 100000,
+        "thumbail": "img/tierra",
+        "code":"0303",
+        "stock": 1
     },
     {
         "id":4,
-        "title":" adasd2asas",
-        "description": "asdasasdssdadasdada",
-        "price": 2112565,
-        "thumbail": "kjjkjjkjkj",
-        "code":"223223",
-        "stock": 11212
+        "title":" MARTE",
+        "description": "Planeta sencillo de identificar en el firmamento nocturno debido al brillo rojizo que hace honor a su nombre.",
+        "price": 999999,
+        "thumbail": "img/marte",
+        "code":"0404",
+        "stock": 1
     },
     {
         "id":5,
-        "title":" adasdasasas",
-        "description": "asdaasasdssdadasdada",
-        "price": 16565,
-        "thumbail": "kjjkjkjkjkjkj",
-        "code":"22323",
-        "stock": 12123
+        "title":" JÚPITER",
+        "description": "Con más del doble de la masa que el resto de planetas juntos, es el planeta más grande del sistema solar",
+        "price": 111111,
+        "thumbail": "img/jupiter",
+        "code":"0505",
+        "stock": 1
     },
     {
         "id":6,
-        "title":" adasvbdas",
-        "description": "asdavbvsdssdadasdada",
-        "price": 2165635,
-        "thumbail": "kjvjkjkjkj",
-        "code":"22323",
-        "stock": 12112
-    }
+        "title":" SATURNO",
+        "description": "El gigante gaseoso, Saturno es el sexto planeta en distancia al sol del sistema solar.",
+        "price": 666666,
+        "thumbail": "img/saturno",
+        "code":"0606",
+        "stock": 1
+    },
+    {
+        "id":7,
+        "title":" URANO",
+        "description": "Está compuesto por una especie de hielo, fluido de agua, amoníaco y metano.",
+        "price": 70000,
+        "thumbail": "img/urano",
+        "code":"0707",
+        "stock": 1
+    },
+    {
+        "id":8,
+        "title":" NEPTUNO",
+        "description": "Está tan lejos que es el único de los planetas que no es visible desde la Tierra a simple vista",
+        "price": 0,
+        "thumbail": "img/neptuno",
+        "code":"0808",
+        "stock": 1
+    },
 ]
