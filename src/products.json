@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "title":" adasdas",
+        "description": "asdasdssdadasdada",
+        "price": 216565,
+        "thumbail": "kjjkjkjkj",
+        "code":"22323",
+        "stock": 1212
+    },
+    {
+        "id":2,
+        "title":" adasdssdas",
+        "description": "asdasdssdfdsfsdadasdada",
+        "price": 23216565,
+        "thumbail": "hjhkjjkjkjkj",
+        "code":"322323",
+        "stock": 12212
+    },
+    {
+        "id":3,
+        "title":" adas6767das",
+        "description": "asdasds67676sdadasdada",
+        "price": 21634565,
+        "thumbail": "kjjkjasdskjkj",
+        "code":"22332323",
+        "stock": 12112
+    },
+    {
+        "id":4,
+        "title":" adasd2asas",
+        "description": "asdasasdssdadasdada",
+        "price": 2112565,
+        "thumbail": "kjjkjjkjkj",
+        "code":"223223",
+        "stock": 11212
+    },
+    {
+        "id":5,
+        "title":" adasdasasas",
+        "description": "asdaasasdssdadasdada",
+        "price": 16565,
+        "thumbail": "kjjkjkjkjkjkj",
+        "code":"22323",
+        "stock": 12123
+    },
+    {
+        "id":6,
+        "title":" adasvbdas",
+        "description": "asdavbvsdssdadasdada",
+        "price": 2165635,
+        "thumbail": "kjvjkjkjkj",
+        "code":"22323",
+        "stock": 12112
+    }
+]
