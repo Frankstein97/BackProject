@@ -1,7 +1,7 @@
 import ProductManager from "./ProductManager.js";
 import express from "express"
 
-const manager = new ProductManager("./products.json")
+// const manager = new ProductManager("./products.json")
 
 const app = express()
 
